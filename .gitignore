@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Include the packaged skill
+!tavily-api.skill
+
+# Include skill source files
+!skills/
+!skills/**
+
+# Include this gitignore
+!.gitignore
